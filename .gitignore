@@ -1,4 +1,16 @@
 # Binaries for programs and plugins
+backend/.idea/
+frontend/.idea/
+.idea/
+*idea/
+../.idea/
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
 *.exe
 *.exe~
 *.dll
